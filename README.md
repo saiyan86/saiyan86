@@ -4,6 +4,7 @@
 - 📫 You can reach out to me via:
   - [twitter](https://twitter.com/YongliChen)
   - [Email](yonglichen@edgenesis.com)
+  - [LinkedIn](https://www.linkedin.com/in/yongli-chen-b3ab853a/)
 - 🌱 I’m currently learning IoT and Edge Computing.
 - 💬 Ask me about anything about cloud native stack.
 - ⚡ Fun fact: I have 3 degrees in 3 different fields: computer science, physics, and electrical engineering.
