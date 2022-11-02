@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
+
+- 🔭 I'm the creator of [Shifu](https://github.com/edgenesis/shifu). ex-MSFT, UIUC alumni.
+- 📫 You can reach out to me via:
+  - [twitter](https://twitter.com/YongliChen)
+  - [Email](yonglichen@edgenesis.com)
+- 🌱 I’m currently learning IoT and Edge Computing.
+- 💬 Ask me about anything about cloud native stack.
+- ⚡ Fun fact: I have 3 degrees in 3 different fields: computer science, physics, and electrical engineering.
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saiyan86)
