@@ -15,5 +15,5 @@
 The damn card above shows my top lang is Verilog... But I've been almost purely using Golang for the past 5 years : )
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saiyan86&theme=radical&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saiyan86&theme=dark&show_icons=true)
 
