@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm the creator of [Shifu](https://github.com/edgenesis/shifu). ex-MSFT, UIUC alumni.
+- 🔭 I'm the creator of [Shifu](https://github.com/edgenesis/shifu), a Kubernetes native IoT development framework. ex-#MSFT, #UIUC alumni.
 - 📫 You can reach out to me via:
   - [twitter](https://twitter.com/YongliChen)
   - [Email](yonglichen@edgenesis.com)
