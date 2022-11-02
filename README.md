@@ -9,4 +9,4 @@
 - 💬 Ask me about anything about cloud native stack.
 - ⚡ Fun fact: I have 3 degrees in 3 different fields: computer science, physics, and electrical engineering.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saiyan86)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saiyan86&theme=radical&show_icons=true)
