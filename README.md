@@ -2,7 +2,7 @@
 
 - 🔭 I'm the creator of [Shifu](https://github.com/edgenesis/shifu), a Kubernetes native IoT development framework. ex-#MSFT, #UIUC alumni.
 - 📫 You can reach out to me via:
-  - [twitter](https://twitter.com/YongliChen)
+  - [Twitter](https://twitter.com/YongliChen)
   - [Email](yonglichen@edgenesis.com)
   - [LinkedIn](https://www.linkedin.com/in/yongli-chen-b3ab853a/)
 - 🌱 I’m currently learning IoT and Edge Computing.
