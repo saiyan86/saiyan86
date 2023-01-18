@@ -10,10 +10,10 @@
 - 💬 Ask me about anything about cloud native stack.
 - ⚡ Fun fact: I have 3 degrees in 3 different fields: computer science, physics, and electrical engineering.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saiyan86&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=saiyan86&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 The damn card above shows my top lang is Verilog... But I've been almost purely using Golang for the past 5 years : )
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saiyan86&theme=dark&show_icons=true)
+![Anurag's github stats](https://readme-stats.clckblog.space/api?username=saiyan86&theme=dark&show_icons=true)
 
